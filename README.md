@@ -52,6 +52,8 @@ O visual usa preto, branco, cinza e vermelho, com a fonte Arial e alternativas d
 
 ## Como abrir
 
+Acesse o [dashboard publicado no GitHub Pages](https://barbaragsoares.github.io/dashboard-vendas-porsche/).
+
 Baixe o `index.html` e abra no navegador. Ele funciona sem instalação e sem conexão com a internet. Para testar, selecione um estado e confira os indicadores e gráficos. Depois combine com outro filtro ou clique em **Limpar filtros**.
 
 Todos os modelos e estados estão disponíveis nos gráficos. Quando a lista for maior que a área do gráfico, use a rolagem interna para consultar as demais categorias.
@@ -60,10 +62,13 @@ Todos os modelos e estados estão disponíveis nos gráficos. Quando a lista for
 
 Foram conferidos os totais da fonte e os agrupamentos por modelo, estado e pagamento. A lógica foi testada em um DOM simulado, com 189 seleções individuais e combinadas, além do cenário sem resultados e do botão de limpar filtros.
 
-Essa verificação não substitui o teste visual no navegador. A conferência da aparência, os prints da tela geral e de um filtro aplicado e o teste do link público ainda serão realizados antes da entrega na DIO.
+Depois da publicação, abri o dashboard pelo endereço do GitHub Pages e confirmei seu funcionamento no navegador.
 
 ## Publicação
 
-**Dashboard: ainda não publicado.**
+O dashboard está publicado no **GitHub Pages**.
 
-O próximo passo é enviar os arquivos para um repositório público na minha conta e ativar o GitHub Pages. Depois da publicação, vou incluir aqui o endereço real do dashboard e as capturas de tela. Na DIO, o link de entrega será o do repositório.
+- **Dashboard:** https://barbaragsoares.github.io/dashboard-vendas-porsche/
+- **Repositório:** https://github.com/barbaragsoares/dashboard-vendas-porsche
+
+Para a entrega na DIO, o endereço utilizado é o do repositório. O link do dashboard permite acessar diretamente o painel interativo.
